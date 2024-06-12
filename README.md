@@ -17,3 +17,4 @@ Este proyecto fue diseñado para la empresa Hyun Seda que se dedica a la venta d
 
 Documentacion con swagger:
 ![image](https://github.com/Bettaalpha44/Proyecto-Hyun-Seda/assets/148149699/00c91772-0b2a-47a2-98ac-ed08102bca22)
+![Captura de pantalla 2024-06-12 105527](https://github.com/Bettaalpha44/Proyecto-Hyun-Seda/assets/85528487/d9672f4a-df12-4177-b2bc-c9b287c347f0)
