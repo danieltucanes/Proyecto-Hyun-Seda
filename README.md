@@ -12,3 +12,8 @@ Este proyecto fue diseñado para la empresa Hyun Seda que se dedica a la venta d
 ## Documentación
   - Documento: [INFORME FINAL PROYECTO HYUN SEDA](https://drive.google.com/file/d/1OK1e-84oSL3bepAERHaXBh_NQTOakKXb/view?usp=drive_link)
   - Video de la aplicación en funcionamiento: [VIDEO DE FUNCIONAMIENTO](https://drive.google.com/file/d/14T42WKX-qzJgLH3aYN_bGfYU0m4vbOMY/view)
+
+
+
+Documentacion con swagger:
+![image](https://github.com/Bettaalpha44/Proyecto-Hyun-Seda/assets/148149699/00c91772-0b2a-47a2-98ac-ed08102bca22)
